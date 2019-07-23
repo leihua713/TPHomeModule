@@ -10,4 +10,6 @@
 
 @interface WBTestLineView : UIView
 
+-(void)drawLine;
+
 @end
